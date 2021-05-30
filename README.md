@@ -51,6 +51,8 @@ This documentation includes the features to be implemented and the sequence of t
 ![6](https://user-images.githubusercontent.com/59612128/120091674-05344c00-c12b-11eb-9518-642190068a60.jpg)
 ![7](https://user-images.githubusercontent.com/59612128/120091677-06fe0f80-c12b-11eb-8304-9fa8a3867569.jpg)
 ![8](https://user-images.githubusercontent.com/59612128/120091678-082f3c80-c12b-11eb-87fb-bf75808d24ad.jpg)
+![9](https://user-images.githubusercontent.com/59612128/120091743-9a374500-c12b-11eb-997e-fb166a9cf2d8.jpg)
+
 
 
 # Getting Started with Create React App
