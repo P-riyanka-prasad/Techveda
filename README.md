@@ -10,25 +10,18 @@ Also the one who have the channels can add a post and if any other student subsc
 # More Details
  Education
 This documentation includes the features to be implemented and the sequence of tasks to be performed. You may checkout the items.
+
 - [ ] Design of website
-- [ ] Chatbot
 - [ ] Front end 
 - [ ] Back end
 
 
 # Features implemented 
--  
-- Implemented the Agora API for vedio conferrencing
-- Have Registrating Feature 
-- 
+-  Home page
 
-
-# Features included
-- Index page: 
-- Dashboard : 
-- Profile : 
-- About us: About the Company
-- Chatting section :
+-  Explore
+-  Doubts
+-  Channel
 
 # Tech Stack
 
