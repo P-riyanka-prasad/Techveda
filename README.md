@@ -17,19 +17,23 @@ This documentation includes the features to be implemented and the sequence of t
 
 
 # Features implemented 
+```
 -  Home page
-
 -  Explore
 -  Doubts
 -  Channel
+```
 
 # Tech Stack
-
+```
 - Redux
 - google auth
 - React
+```
 
 **After Log In/Sign In :**
+
+You will see a dashboard where you can see various cards if you want you can suscribe to different channels not only this you will also be able to see doubt section where you can post your doubt and get your doubt cleared.
 
 # Dashboard : 
 
@@ -37,13 +41,21 @@ This documentation includes the features to be implemented and the sequence of t
 -
 
 ![1](https://user-images.githubusercontent.com/59612128/120091659-f77ec680-c12a-11eb-8817-e9e55b513a33.jpg)
+
 ![2](https://user-images.githubusercontent.com/59612128/120091663-fa79b700-c12a-11eb-94b8-0135d9f03d55.jpg)
+
 ![3](https://user-images.githubusercontent.com/59612128/120091665-fbaae400-c12a-11eb-9547-ed753a454ec6.jpg)
+
 ![4](https://user-images.githubusercontent.com/59612128/120091669-006f9800-c12b-11eb-8b47-7ab43f910170.jpg)
+
 ![5](https://user-images.githubusercontent.com/59612128/120091671-02d1f200-c12b-11eb-8f29-4651cd78c93a.jpg)
+
 ![6](https://user-images.githubusercontent.com/59612128/120091674-05344c00-c12b-11eb-9518-642190068a60.jpg)
+
 ![7](https://user-images.githubusercontent.com/59612128/120091677-06fe0f80-c12b-11eb-8304-9fa8a3867569.jpg)
+
 ![8](https://user-images.githubusercontent.com/59612128/120091678-082f3c80-c12b-11eb-87fb-bf75808d24ad.jpg)
+
 ![9](https://user-images.githubusercontent.com/59612128/120091743-9a374500-c12b-11eb-997e-fb166a9cf2d8.jpg)
 
 
